@@ -1,4 +1,4 @@
-![alt text](https://github.com/tculb/Calculator/blob/master/Calculator/CalculatorScreenshot.png?raw=true)
+![alt text](https://github.com/tculb/Sorting-Algorithm-Visualizer/blob/main/sorting_visualizer_screenshot.png?raw=true)
 
 # A Simple Calculator
 This repository contains a basic calculator implemented in C++ using the Qt framework.
